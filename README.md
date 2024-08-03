@@ -1,5 +1,7 @@
 # WarframeTrader
-Automate your warframe trades
-if you want to edit the code yourself download the ahk file, if you just want to run it download the exe file
-Ctrl + Alt + t starts the program
-hold Ctrl + Alt + Esc to end the program
+Automate your Warframe Trading Chat.
+
+This script will send a pre-defined message every 120 seconds (which is the limit for the warframe trade chat at the time of writing). To run this script the exe file is all that is required.
+
+To start the program press Ctrl + Alt + t.
+Hold Ctrl + Alt + Esc for a couple seconds to end the program.
