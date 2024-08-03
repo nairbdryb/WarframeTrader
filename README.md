@@ -5,3 +5,5 @@ This script will send a pre-defined message every 120 seconds (which is the limi
 
 To start the program press Ctrl + Alt + t.
 Hold Ctrl + Alt + Esc for a couple seconds to end the program.
+
+This script is written in [AutoHotkey 1.10](https://www.autohotkey.com/download/1.1/).
